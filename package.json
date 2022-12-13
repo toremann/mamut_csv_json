@@ -1,0 +1,24 @@
+{
+  "name": "mamut_data_export-import_json_converter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toremann/"
+  },
+  "version": "1.0.0",
+  "description": "Using node fs module to convert csv to json.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mamut",
+    "visma",
+    "import",
+    "export",
+    "convert",
+    "json",
+    "csv"
+  ],
+  "author": "Mats Tore Lund",
+  "license": "ISC"
+}
